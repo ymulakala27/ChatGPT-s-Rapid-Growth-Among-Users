@@ -4,11 +4,11 @@ This project focuses on analyzing the growth of users on ChatGPT, a language mod
 
 ## Purpose
 
-The purpose of this project is to understand and analyze the growth patterns and trends in the number of users for ChatGPT. By leveraging the power of Power BI, we aim to provide clear and concise visualizations that help in gaining insights into user growth over time.
+The purpose of this project is to understand and analyze the growth patterns and trends in the number of users for ChatGPT. By leveraging the power of Power BI, I aim to provide clear and concise visualizations that help in gaining insights into user growth over time.
 
 ## Data Collection
 
-The data for this analysis was collected by scraping the website [https://explodingtopics.com/blog/chatgpt-users](https://explodingtopics.com/blog/chatgpt-users). The website provides information and statistics about the growth of ChatGPT users. The data collected includes various attributes such as dates, user counts, and any additional relevant information.
+The data for this analysis was collected by scraping the website [https://explodingtopics.com/blog/chatgpt-users](https://explodingtopics.com/blog/chatgpt-users). The website provides information and statistics about the growth of ChatGPT users. The data collected includes various attributes such as dates, user counts, and additional relevant information.
 
 ## Data Cleaning
 
@@ -20,13 +20,16 @@ The analysis of the growth of ChatGPT users was conducted using Power BI, a powe
 
 The analysis primarily focused on the following aspects:
 
-1. **Overall User Growth:** Visualizations were created to showcase the overall growth of ChatGPT users over time. This includes line charts, bar charts, or area charts to illustrate the user count changes over specific time intervals.
+1. **Days ChatGPT took to reach 1 Million users:** This Visualization was created to showcase the overall time it took ChatGPT to reach 1 Million users mark. This includes bar chart to illustrate a comparision of online services such as Instagram, DropBox, Spotify, Facebook, Foursquare, Twitter, AirBnb, Kickstarter and Netflix, with ChatGPT on the number of days each of this service took to reach 1 Million user mark. ChatGPT just took 5 days to reach this mark, Instagram was in the second place and Netflix was in the last place taking about 1,278 days to reach the 1 Million mark.
 
-2. **User Growth by Time Period:** The data was segmented into specific time periods, such as months or years, to analyze the growth patterns within those intervals. Comparative visualizations were used to highlight the user growth trends across different time periods.
+![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/27cc7f19-88f6-4ab0-aea4-afe620acfb61)
+  
 
-3. **User Growth by Geography:** To gain insights into the geographical distribution of ChatGPT users, visualizations were created to depict user counts by region or country. This helps in identifying areas of high user adoption and potential target markets.
+3. **User Growth by Time Period:** The data was segmented into specific time periods, such as months or years, to analyze the growth patterns within those intervals. Comparative visualizations were used to highlight the user growth trends across different time periods.
 
-4. **User Growth Influencers:** The analysis aimed to identify factors or events that contributed to significant user growth. By correlating external events or marketing campaigns with user counts, insights were gained into the impact of various factors on user adoption.
+4. **User Growth by Geography:** To gain insights into the geographical distribution of ChatGPT users, visualizations were created to depict user counts by region or country. This helps in identifying areas of high user adoption and potential target markets.
+
+5. **User Growth Influencers:** The analysis aimed to identify factors or events that contributed to significant user growth. By correlating external events or marketing campaigns with user counts, insights were gained into the impact of various factors on user adoption.
 
 ## Insights
 
