@@ -23,7 +23,7 @@ The analysis of the growth of ChatGPT users was conducted using Power BI, a powe
 
 The analysis primarily focused on the following aspects:
 
-1. **Days ChatGPT took to reach 1 Million users:** This visualization presents the timeline depicting the duration it took for ChatGPT to achieve the milestone of one million users. The chart compares this achievement with prominent online services including Instagram, Dropbox, Spotify, Facebook, Foursquare, Twitter, Airbnb, Kickstarter, and Netflix, highlighting the number of days each service required to reach the one million user mark. Notably, ChatGPT accomplished this feat in a remarkably short period of just five days, securing the leading position. Instagram emerged as the second-fastest service, while Netflix exhibited the longest duration, taking approximately 1,278 days to reach the coveted one million user milestone.
+1. **Days ChatGPT took to reach 1 Million users:** This visualization presents the depiction of the duration it took for ChatGPT to achieve the milestone of one million users. The chart compares this achievement with prominent online services including Instagram, Dropbox, Spotify, Facebook, Foursquare, Twitter, Airbnb, Kickstarter, and Netflix, highlighting the number of days each service required to reach the one million user mark. Notably, ChatGPT accomplished this feat in a remarkably short period of just five days, securing the leading position. Instagram emerged as the second-fastest service, while Netflix exhibited the longest duration, taking approximately 1,278 days to reach the coveted one million user milestone.
 
 ![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/b4b19047-d426-403a-8891-187ee03c952f)
 
@@ -36,7 +36,7 @@ The analysis primarily focused on the following aspects:
 ![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/3fbf999b-8f30-4609-b9d0-96455746adc7)
 
 
-4. **Proportion of Traffic:** The primary objective of the analysis was to discern the traffic sources responsible for substantial user growth. Through the correlation of different traffic sources, measured in percentages, valuable insights were obtained regarding the respective contributions of these sources to user adoption. This analysis provided a comprehensive understanding of the influence exerted by various traffic channels, enabling a data-driven assessment of their impact on the overall user acquisition process. By discerning the significance of different traffic sources, informed decisions could be made to optimize marketing strategies and allocate resources effectively.
+4. **Proportion of Traffic:** The primary objective of the analysis was to discern the traffic sources responsible for substantial user growth. Through the correlation of different traffic sources, measured in percentages, valuable insights were obtained regarding the respective contributions of these sources to user adoption. This analysis provided a comprehensive understanding of the influence exerted by various traffic channels, enabling a data-driven assessment of their impact on the overall user acquisition process. 
 
 ![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/4b4f3336-890b-4dfd-9104-4ab4ae6bc3e9)
 
@@ -52,21 +52,18 @@ The analysis of ChatGPT user growth using Power BI provided several valuable ins
 
 ![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/da4356cc-2a65-480b-992c-66e0bd568383)
 
-
 2. **Major Traffic Souces:** The analysis unveiled that the primary driver of user growth for ChatGPT was direct traffic, accounting for a substantial percentage of 87.89%. This finding underscores the significance of users directly accessing the platform, indicating a strong brand presence, customer loyalty, and a high level of organic engagement. Direct traffic serves as a valuable source of user acquisition, as it suggests that individuals actively seek out and directly engage with ChatGPT, contributing significantly to its overall user growth.
 
 ![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/3100e723-2f68-427c-9528-15dc5238951b)
 
 3. **Geographical Distribution:** By conducting a thorough examination of the geographical distribution of users, valuable insights emerged, indicating that the United States of America (USA) emerged as a prominent region where ChatGPT has gained substantial traction. The data analysis revealed a significant user base in the USA, pointing to a strong adoption rate and widespread popularity of ChatGPT among users in this region. This finding suggests that the platform has effectively resonated with the American audience, positioning it as a leading choice for AI-powered conversational interactions in the US market.
 
-![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/87d55563-7b3a-4734-a771-661a5fc2f947)
-
+![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/42f6d7c1-5343-488e-bef4-2d3ec2159b8b)
 
 4. **Average Time Spent by each user on ChatGPT:** The analysis yielded an insightful finding that, on average, each user spends approximately 8 minutes and 32 seconds engaging with ChatGPT. This metric provides valuable information about the level of user engagement and the extent of time users invest in utilizing the platform. The observed average duration of user interactions highlights the platform's ability to capture and sustain user interest, as well as the value users perceive in their interactions with ChatGPT.
 
 ![image](https://github.com/ymulakala27/ChatGPT-s-Rapid-Growth-Among-Users/assets/128730384/a8c18362-6a11-4710-a2a8-4c95a3d9174a)
 
-
 ## Conclusion
 
-The ChatGPT's Rapid Growth Among Users project utilized Power BI to analyze and visualize the growth patterns of ChatGPT users. By collecting and cleaning data from [https://explodingtopics.com/blog/chatgpt-users](https://explodingtopics.com/blog/chatgpt-users), we were able to gain valuable insights into the user growth trends. The visualizations and analysis conducted provide a comprehensive overview of ChatGPT's user growth, aiding in
+The ChatGPT's Rapid Growth Among Users project utilized Power BI to analyze and visualize the growth patterns of ChatGPT users. By collecting and cleaning data from [https://explodingtopics.com/blog/chatgpt-users](https://explodingtopics.com/blog/chatgpt-users), I was able to gain valuable insights into the user growth trends. The visualizations and analysis conducted provide a comprehensive overview of ChatGPT's user growth, aiding in
